@@ -30,10 +30,7 @@ char (*board)[26] = new char[26][26];
 char *axisTags = new char[26];
 
 
-/* Function declarations */
-
-
-/* Function initializations */
+/* Methods */
 
 /*
 	Converts character rows and columns into integer index for 2d array.
